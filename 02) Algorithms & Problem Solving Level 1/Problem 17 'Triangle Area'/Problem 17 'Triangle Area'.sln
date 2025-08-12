@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem 17 'Triangle Area'", "Problem 17 'Triangle Area'\Problem 17 'Triangle Area'.vcxproj", "{51A692C1-5F59-414E-8C03-EC091E424DEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51A692C1-5F59-414E-8C03-EC091E424DEC}.Debug|x64.ActiveCfg = Debug|x64
+		{51A692C1-5F59-414E-8C03-EC091E424DEC}.Debug|x64.Build.0 = Debug|x64
+		{51A692C1-5F59-414E-8C03-EC091E424DEC}.Debug|x86.ActiveCfg = Debug|Win32
+		{51A692C1-5F59-414E-8C03-EC091E424DEC}.Debug|x86.Build.0 = Debug|Win32
+		{51A692C1-5F59-414E-8C03-EC091E424DEC}.Release|x64.ActiveCfg = Release|x64
+		{51A692C1-5F59-414E-8C03-EC091E424DEC}.Release|x64.Build.0 = Release|x64
+		{51A692C1-5F59-414E-8C03-EC091E424DEC}.Release|x86.ActiveCfg = Release|Win32
+		{51A692C1-5F59-414E-8C03-EC091E424DEC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CB1EBE6-379E-4E65-AA7B-E34B732411A3}
+	EndGlobalSection
+EndGlobal
